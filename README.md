@@ -1,9 +1,12 @@
-Customer_Behavior_Analysis
 Data Analytics Project
+
+Customer_Behavior_Analysis
+
 Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from loading a dataset in python, performing exploratory data analysis (EDA), cleaning and transforming the data, running SQL queries on relational databases, bulding a Power BI dashboard, and finaaly creating a structured report and presntation using Gamma. 
-THe goal is to shocase strong problem-solving, analytical, visulatization skills that are crucial for data-drievn decision-making.
+
+The goal is to shocase strong problem-solving, analytical, visulatization skills that are crucial for data-drievn decision-making.
 
 Dataset
 
@@ -64,6 +67,10 @@ Trend Analysis
 Category-wise Performance
 Interactive Filters and Slicers
 Summary Insights
+
+Dashboard Preview:
+
+![Dashboard Screenshot](customer_behavior_analysis_dashboard.png)
 
 Results & Insights
 
